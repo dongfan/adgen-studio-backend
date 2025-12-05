@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.env
+venv/
+
+# FastAPI static
+static/
+*.png
+
+# OS
+.DS_Store
+
+# Logs
+*.log
